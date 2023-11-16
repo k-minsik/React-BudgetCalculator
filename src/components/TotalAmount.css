@@ -1,0 +1,9 @@
+/* TotalAmount.css */
+.total-amount {
+    text-align: right;
+    padding: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 20px; /* Adjust as necessary */
+  }
+  

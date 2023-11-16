@@ -1,0 +1,47 @@
+/* BudgetItem.css */
+.budget-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+  }
+  
+  .amount {
+    flex: 1;
+    text-align: right;
+    margin-left: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .edit-button, .delete-button {
+    margin-left: 10px;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .edit-button {
+    background-color: #28a745; /* Green */
+  }
+  
+  .delete-button {
+    background-color: #dc3545; /* Red */
+  }
+  
+  .edit-button:hover {
+    background-color: #218838;
+  }
+  
+  .delete-button:hover {
+    background-color: #c82333;
+  }
+  

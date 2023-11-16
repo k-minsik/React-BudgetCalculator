@@ -1,0 +1,32 @@
+/* BudgetForm.css */
+.budget-form {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    flex: 1;
+    margin-right: 10px; /* Add space between inputs */
+    padding: 8px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+  }
+  
+  .input:last-child {
+    margin-right: 0; /* Remove margin for the last input */
+  }
+  
+  .button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #218838;
+  }
+  
