@@ -1,3 +1,15 @@
+# Budget Calculator
+
+> 최대한 컴포넌트를 나눠서 구현  
+> 폴더 이름 및 변수 이름 명확하게 작성
+>
+---
+
+<p align='center'><img src="images/main.png"  align-img></p>
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
